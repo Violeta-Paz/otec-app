@@ -1,0 +1,79 @@
+
+.table-get{
+ border: 1px solid  black;
+ border-radius: 5px;
+ margin-top: 7%;
+
+}
+.table-get-modal{
+    border: 1px solid  black;
+    border-radius: 5px;
+    margin-top: 10px;
+   
+}
+
+.table-add{
+    border: 1px solid  black;
+    border-radius: 5px;
+    margin-bottom: 15vw;
+   
+}
+
+.header-table{
+    background-color: #f39c12;
+}
+
+.body{
+    border-top: 1px   rgb(192, 187, 187);
+}
+
+.colorModal{
+
+   background-color: #BEBFC0 !important;
+}
+
+.input{
+    border: 0cm;
+}
+
+.btn-color{
+    background-color: #8e44ad !important;
+    color: white !important;
+}
+
+.btn-color-close{
+    background-color: #DB2320 !important;
+    color: white !important;
+}
+
+.btn-circle {
+    width: 50px;
+    height: 50px;
+    padding: 4px 0px;
+    text-align: center;
+    border-radius: 25px !important;
+    text-align: center;
+    font-size: 15px;
+    line-height: 1.42857;
+    background-color: #27ae60 !important;
+    color: white !important;
+    margin-top: 7%;
+    margin-bottom: 20px;
+}
+
+.centerButton {
+    text-align: center;
+    margin-top: 1vw;
+}
+
+.btn-delete{
+    background-color: #DB2320 !important;
+    color: white !important;
+
+}
+
+.btn-update{
+    background-color:  #8e44ad !important;
+    color: white !important;
+}
+

@@ -1,0 +1,17 @@
+.body-card{
+    margin-top: 10vw;
+}
+
+
+.header-table{
+    background-color: #2980b9 !important;
+    margin-top: 20px;
+    color: white !important;
+}
+
+.input{
+    background-color: #27ae60 !important;
+    width: 300px;
+    margin-top: 20px;
+    color: white !important;
+}

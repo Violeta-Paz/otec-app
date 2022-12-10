@@ -1,0 +1,65 @@
+.table-get{
+    border: 1px solid  black;
+    border-radius: 5px;
+    margin-top: 10%;
+}
+   
+.table-add{
+    border: 1px solid  black;
+    border-radius: 5px;
+    margin-bottom: 15vw;
+      
+}
+   
+.header-table{
+    background-color: #f39c12;
+}
+   
+.body{
+    border-top: 1px   rgb(192, 187, 187);
+}
+   
+.input{
+    border: 0cm;
+}
+   
+.btn-circle {
+
+    text-align: center;
+    border-radius: 25px !important;
+    text-align: center;
+    background-color: #27ae60!important;
+    color: white !important;
+    width: 40px;
+    height: 40px;
+}
+
+   
+.centerButton {
+    text-align: center;
+    margin-top: 1vw;
+}
+   
+.btn-delete{
+    background-color:#ed1128 !important;
+    color: white !important;
+   
+   
+}
+   
+
+
+.icon{
+    color: white !important;
+    background-color: #8e44ad !important;
+
+
+
+}
+
+.line{
+    background-color: #27ae60 !important;
+    color: white !important;
+}
+    
+   
